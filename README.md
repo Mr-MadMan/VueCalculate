@@ -1,4 +1,4 @@
-# vuecalculator
+# vue拟态计算器
 
 ## Project setup
 ```
